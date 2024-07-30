@@ -1,4 +1,5 @@
-## Exploring Classification and Regression with Neural Networks
+## Classification and Regression with Neural Networks
+
 
 This repository contains the code and analysis for an assignment exploring the application of different neural network architectures for classification and regression problems. 
 
